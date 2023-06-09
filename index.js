@@ -1,1 +1,1 @@
-console.log("¡Hola Git!");
+console.log("¡Bebe agua, hidratate!");
